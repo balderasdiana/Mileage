@@ -1,3 +1,8 @@
+/* 
+Author: Diana Balderas
+Submitted: 2018/23/08
+*/
+
 import java.util.Scanner;
 
 public class Mileage
